@@ -25,4 +25,6 @@ Smart farming / hydroponics
 Urban agriculture
 IoT-based crop monitoring
 Precision agriculture research
+more details:
+https://drive.google.com/drive/u/0/folders/10H4FxdKSmnclsK2PJkO1HG5XDLkbWm7a
 
