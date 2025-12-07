@@ -43,5 +43,7 @@ Battery
 working:
 used to monitor temperature of cabin and battery.
 when temperature will be greater than threshold value Turn on fan.
+for more details
+https://drive.google.com/drive/u/0/folders/10H4FxdKSmnclsK2PJkO1HG5XDLkbWm7a
 I have designed PCB for this project using Altium.
 
