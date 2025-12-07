@@ -1,5 +1,7 @@
 # agriMicroX
 Note: this is a group Project
+
+
 A smart, automated microgreens cultivation system built using Arduino and IoT sensors to monitor and control environmental conditions for efficient, commercial-grade microgreens production.
 This project demonstrates real-world smart agriculture using embedded systems, automation, and IoT-based sensing.\
 
