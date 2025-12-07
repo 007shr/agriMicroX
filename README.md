@@ -1,4 +1,5 @@
 # agriMicroX
+Note: this is a group Project
 A smart, automated microgreens cultivation system built using Arduino and IoT sensors to monitor and control environmental conditions for efficient, commercial-grade microgreens production.
 This project demonstrates real-world smart agriculture using embedded systems, automation, and IoT-based sensing.\
 
@@ -28,7 +29,7 @@ Precision agriculture research
 more details:
 https://drive.google.com/drive/u/0/folders/10H4FxdKSmnclsK2PJkO1HG5XDLkbWm7a
 
-temperature controlling mechanism inside car(individual):
+TEMPERATURE CONTROLLING MECHANISM INSIDE CAR(individual):
 Note: this is a simulation project.
 tools used:
 Arduino uno
